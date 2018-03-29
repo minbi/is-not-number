@@ -1,0 +1,22 @@
+{
+  "name": "is-not-number",
+  "description": "Returns true if the value is not a number. No comprehensive tests, but depends on libraries with comprehensive tests",
+  "version": "1.0.0",
+  "homepage": "https://github.com/minbi/is-not-number",
+  "author": "Min Bi (https://github.com/minbi)",
+  "contributors": [
+    "Min Bi"
+  ],
+  "repository": "minbi/is-not-number",
+  "bugs": {
+    "url": "https://github.com/minbi/is-not-number/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "is-number": "^5.0.0"
+  }
+}
